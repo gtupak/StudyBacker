@@ -1,0 +1,33 @@
+html, body, .container {
+	height: 100%;
+}
+.container {
+	display: table;
+	vertical-align: middle;
+}
+.vertical-center-row {
+	display: table-cell;
+	vertical-align: middle;
+}
+.header, .motto{
+	text-align: center;
+}
+.form-group{
+	margin-top: 21px;
+}
+body{
+    background: url('../img/graduation-image.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100%;   
+}
+.info {
+	border: 5px solid rgba(145, 147, 165, 0.69);
+    border-radius: 45px;
+    padding-bottom: 10px;
+    background-color: rgba(246, 246, 254, 0.69);	
+}
+.signup{
+	margin-top: 16px;
+}

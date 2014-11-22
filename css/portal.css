@@ -1,0 +1,21 @@
+.tab{
+	border: 2px solid black;
+}
+.favorites{
+	border: 1px solid black;
+	padding-bottom: 25px;
+}
+.fav-course{
+	border-radius: 27px;
+	background-color: #D2F9FF;
+	height: 100px;
+	margin-top: 25px;
+	vertical-align: middle;
+	border: 3px solid rgba(146, 152, 164, 0.77);
+}
+.fav-course:hover{
+	background-color: #8FFF8F;
+}
+a{
+	color: rgba(69, 59, 59, 0.97);
+}
