@@ -1,0 +1,23 @@
+body{
+	background: url('../img/graduation-image.jpg') no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: 100%;   
+}
+.navbar-right{
+	margin-right: 5px;
+}
+.title{
+}
+.forum{
+	border-radius: 6px;
+	background-color: rgba(255, 252, 239, 0.65);
+	border: 2px solid rgba(113, 99, 99, 0.9);
+}
+.description{
+	background-color: rgba(142, 149, 155, 1);
+}
+.entry1, .entry3{
+	background-color: inherit;
+}
