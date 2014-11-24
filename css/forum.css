@@ -21,3 +21,7 @@ body{
 .entry1, .entry3{
 	background-color: inherit;
 }
+
+.row {
+	margin: 0;
+}
