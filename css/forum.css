@@ -25,3 +25,9 @@ body{
 .row {
 	margin: 0;
 }
+.rating{
+	background-color: rgba(151, 176, 198, 0.59);
+}
+a{
+	color: #0F273C;
+}

@@ -41,3 +41,6 @@ h1{
 .row {
 	margin: 0;
 }
+.form-control{
+	width: 136px !important;
+}
