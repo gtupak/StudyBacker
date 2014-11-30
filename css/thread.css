@@ -4,7 +4,7 @@ body{
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: 100%;   
-	padding-bottom: 50px;
+	/*padding-bottom: 25px;*/
 }
 .navbar-right{
 	margin-right: 5px;
@@ -31,7 +31,19 @@ body{
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
-img{
+.profile-pic{
 	height: 75px;
 	width: 75px;
+}
+.like{
+	height:45;
+	width: 45;
+}
+.like-section{
+	padding-top: 58px;
+}
+.reply-area{
+	background-color: rgba(166, 186, 101, 0.3);
+	padding-top: 25px;
+	padding-bottom: 25px;
 }
