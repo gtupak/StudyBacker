@@ -47,3 +47,47 @@ body{
 	padding-top: 25px;
 	padding-bottom: 25px;
 }
+.notification-container {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	background-color: #111;
+	width: 400px;
+	color: white;
+	padding: 15px;
+}
+
+.notification {
+
+}
+
+.notification hr {
+	margin: 5px 0px;
+}
+
+.notification a {
+	color: teal;
+	text-decoration: none;
+}
+
+.notification a:hover {
+	color: red;
+}
+
+.notification > div {
+	float: right;
+}
+
+.notification-header {
+	margin-bottom: 10px;
+	font-size: 20px
+}
+
+.notification-header a:hover {
+	color: teal;
+}
+@font-face {
+  font-family: 'Glyphicons Halflings';
+  src: url('../fonts/glyphicons-halflings-regular.eot');
+  src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded- opentype'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
+}
